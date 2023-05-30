@@ -1,5 +1,9 @@
 # SCAuditStudio
 
+## IMPORTANT
+We made a organization which contains the new repo for this project.
+Go to https://github.com/SCAuditStudio/SCAuditStudio, as this repo is obsolete and will not feature new releases.
+
 ## Getting Started
 1. Download or fork this repo  
 2. Go to the Build/Release folder  
